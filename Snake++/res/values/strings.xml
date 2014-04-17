@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snake++</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="title_1">Snake</string>
+	<string name="title_2">++</string>
+	<string name="start">Play</string>
+	<string name="score">High Scores</string>
+	<string name="instru">Instructions</string>
+    
+</resources>
