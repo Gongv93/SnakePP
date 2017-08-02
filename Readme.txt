@@ -1,4 +1,6 @@
+https://www.vincentgong.com/images/mosaic.png
 
+# Snake++ #
 
 Project I made to learn a little about android development using Andengine.
 
