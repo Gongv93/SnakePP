@@ -1,4 +1,4 @@
-https://www.vincentgong.com/images/mosaic.png
+https://www.vincentgong.com/images/snake.png
 
 # Snake++ #
 
